@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Use xAPI to Correlate Training to Tangible Business Impact</title>
+      <link>/post/use-xapi-to-correlate-training/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/use-xapi-to-correlate-training/</guid>
+      <description>&lt;p&gt;Does your sales team know your product inside out?&lt;/p&gt;
+
+&lt;p&gt;Can they upsell while anticipating the customer&amp;rsquo;s needs?&lt;/p&gt;
+
+&lt;p&gt;Is your delivery team up to date with the latest developments in technologies they work with?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.td.org/insights/use-xapi-to-correlate-training-to-tangible-business-impact&#34; target=&#34;_blank&#34;&gt;Read the Article Here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 Problems xAPI Can Solve</title>
+      <link>/post/3_problems-_xapi_can_solve/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/3_problems-_xapi_can_solve/</guid>
+      <description>&lt;p&gt;In many organizations, the learning management system (LMS) is responsible for providing data on learning performance. But is there anything that these tools are still not able to do that xAPI can help the L&amp;amp;D function accomplish?
+&lt;a href=&#34;https://www.td.org/insights/3-problems-xapi-can-solve&#34;&gt;Read the Article Here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These are only a few examples of typical challenges we can solve with xAPI. Join us for the two-day workshop, LearnNow: Learn xAPI, in March 2019 to explore a variety of practical ways you can use xAPI to tie your workforce development initiatives to real performance outcomes.&lt;/p&gt;
+
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4 killer examples of xAPI used for more effective learning</title>
+      <link>/post/4-killer-examples-of-xapi/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/4-killer-examples-of-xapi/</guid>
+      <description>&lt;p&gt;xAPI is a game changer. It can help you to identify where learning interventions might be needed; measure the impact of blended learning experiences; and identify how they could be improved. In this blog we take a closer look at what xAPI is and share some real-world examples of xAPI in action.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.elucidat.com/blog/elearning-xapi-examples/&#34; target=&#34;_blank&#34;&gt;Read the Article Here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
